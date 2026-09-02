@@ -4,7 +4,7 @@ Reconnaissance resources organized by methodology.
 
 ## Tool Lists
 
-- [Recon Tool List](tool-lists/recon.md)
+- [Recon Tool List](https://github.com/piyushshendeexe/tool-list/blob/main/recon.md)
 
 ## Categories
 
