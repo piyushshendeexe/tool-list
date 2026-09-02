@@ -4,7 +4,7 @@ A categorized collection of cybersecurity tools and resources.
 
 ## Recon
 
-👉 **[Open Recon Tool List](./Recon/recon.md)**
+👉 **[Open Recon Tool List](./recon.md)**
 
 ### Categories
 
